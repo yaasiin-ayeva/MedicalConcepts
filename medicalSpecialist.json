@@ -908,5 +908,12 @@
         "domain": "Médecine physique et de réadaptation",
         "description": "Le spécialiste en médecine physique et de réadaptation est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "SPECIALISTE_EN_MEDECINE_PHYSIQUE_ET_DE_READAPTATION"
+    },
+    {
+        "id": "131",
+        "name": "Spécialiste en médecine préventive",
+        "domain": "Médecine préventive",
+        "description": "Le spécialiste en médecine préventive est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_MEDECINE_PREVENTIVE"
     }
 ]
