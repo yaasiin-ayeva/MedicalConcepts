@@ -306,5 +306,145 @@
         "domain": "Chirurgie cancérologique",
         "description": "Le chirurgien cancérologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "CHIRURGIEN_CANCEROLOGUE"
+    },
+    {
+        "id": "45",
+        "name": "Chirurgien de la main",
+        "domain": "Chirurgie de la main",
+        "description": "Le chirurgien de la main est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_MAIN"
+    },
+    {
+        "id": "46",
+        "name": "Chirurgien de la face et du cou",
+        "domain": "Chirurgie de la face et du cou",
+        "description": "Le chirurgien de la face et du cou est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_FACE_COU"
+    },
+    {
+        "id": "47",
+        "name": "Chirurgien endocrinien",
+        "domain": "Chirurgie endocrinienne",
+        "description": "Le chirurgien endocrinien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_ENDOCRIN"
+    },
+    {
+        "id": "48",
+        "name": "Chirurgien généaliste",
+        "domain": "Chirurgie générale",
+        "description": "Le chirurgien généaliste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_GENERALISTE"
+    },
+    {
+        "id": "49",
+        "name": "Chirurgien infantile",
+        "domain": "Chirurgie infantile",
+        "description": "Le chirurgien infantile est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_INFANTILE"
+    },
+    {
+        "id": "50",
+        "name": "Chirurgien maxillo-facial",
+        "domain": "Chirurgie maxillo-faciale",
+        "description": "Le chirurgien maxillo-facial est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_MAXILLO_FACIAL"
+    },
+    {
+        "id": "51",
+        "name": "Chirurgien maxillo-facial et stomatologue",
+        "domain": "Chirurgie maxillo-faciale et stomatologie",
+        "description": "Le chirurgien maxillo-facial et stomatologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_MAXILLO_FACIAL_STOMATOLOGUE"
+    },
+    {
+        "id": "52",
+        "name": "Chirurgien oral",
+        "domain": "Chirurgie orale",
+        "description": "Le chirurgien oral est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_ORAL"
+    },
+    {
+        "id": "53",
+        "name": "Chirurgien plasticien et esthétique",
+        "domain": "Chirurgie plastique et esthétique",
+        "description": "Le chirurgien plasticien et esthétique est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_PLASTICIEN_ESTHETIQUE"
+    },
+    {
+        "id": "54",
+        "name": "Chirurgien thoracique",
+        "domain": "Chirurgie thoracique",
+        "description": "Le chirurgien thoracique est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_THORACIQUE"
+    },
+    {
+        "id": "55",
+        "name": "Chirurgien vasculaire",
+        "domain": "Chirurgie vasculaire",
+        "description": "Le chirurgien vasculaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_VASCULAIRE"
+    },
+    {
+        "id": "56",
+        "name": "Chirurgien viscéral et digestif",
+        "domain": "Chirurgie viscérale et digestive",
+        "description": "Le chirurgien viscéral et digestif est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_VISCERAL_DIGESTIF"
+    },
+    {
+        "id": "57",
+        "name": "Cytogénéticien",
+        "domain": "Cytogénétique",
+        "description": "Le cytogénéticien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CYTOGENETICIEN"
+    },
+    {
+        "id": "58",
+        "name": "Dermopathologue",
+        "domain": "Dermatopathologie",
+        "description": "Le dermatopathologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "DERMOPATHOLOGUE"
+    },
+    {
+        "id": "59",
+        "name": "Echographiste",
+        "domain": "Echographie",
+        "description": "L'echographiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ECHOGRAPHISTE"
+    },
+    {
+        "id": "60",
+        "name": "Endocrinologue diabétologue",
+        "domain": "Endocrinologie diabétologie",
+        "description": "L'endocrinologue diabétologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ENDOCRINOLOGUE_DIABETOLOGUE"
+    },
+    {
+        "id": "61",
+        "name": "Epithésiste",
+        "domain": "Epithésie",
+        "description": "L'epithésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "EPITHESISTE"
+    },
+    {
+        "id": "62",
+        "name": "Ergothérapeute",
+        "domain": "Ergothérapie",
+        "description": "L'ergothérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ERGOTHERAPEUTE"
+    },
+    {
+        "id": "63",
+        "name": "Généticien",
+        "domain": "Génétique",
+        "description": "Le généticien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GENETICIEN"
+    },
+    {
+        "id": "64",
+        "name": "Gériatre",
+        "domain": "Gériatrie",
+        "description": "Le gériatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GERIATRE"
     }
 ]
