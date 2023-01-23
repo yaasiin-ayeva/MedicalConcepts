@@ -887,5 +887,26 @@
         "domain": "Médecine de catastrophe",
         "description": "Le spécialiste en médecine de catastrophe est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "SPECIALISTE_EN_MEDECINE_DE_CATASTROPHE"
+    },
+    {
+        "id": "128",
+        "name": "Spécialiste en médecine interne",
+        "domain": "Médecine interne",
+        "description": "Le spécialiste en médecine interne est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_MEDECINE_INTERNE"
+    },
+    {
+        "id": "129",
+        "name": "Spécialiste en médecine légale et expert médical",
+        "domain": "Médecine légale et expert médical",
+        "description": "Le spécialiste en médecine légale et expert médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_MEDECINE_LEGALE_ET_EXPERT_MEDICAL"
+    },
+    {
+        "id": "130",
+        "name": "Spécialiste en médecine physique et de réadaptation",
+        "domain": "Médecine physique et de réadaptation",
+        "description": "Le spécialiste en médecine physique et de réadaptation est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_MEDECINE_PHYSIQUE_ET_DE_READAPTATION"
     }
 ]
