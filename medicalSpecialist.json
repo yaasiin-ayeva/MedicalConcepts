@@ -1,0 +1,226 @@
+[
+    {
+        "id": "1",
+        "name": "Chirurgien-dentiste",
+        "domain": "Chirurgie dentaire",
+        "description": "Le chirurgien-dentiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "DENTISTE"
+    },
+    {
+        "id": "2",
+        "name": "Médecin généraliste",
+        "domain": "Médecine générale",
+        "description": "Le médecin généraliste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GENERALISTE"
+    },
+    {
+        "id": "3",
+        "name": "Pédiatre",
+        "domain": "Pédiatrie",
+        "description": "Le pédiatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PEDIATRE"
+    },
+    {
+        "id": "4",
+        "name": "Gynécologue médical et obstétrique",
+        "domain": "Gynécologie",
+        "description": "Le gynécologue médical et obstétrique est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GYNECOLOGUE"
+    },
+    {
+        "id": "5",
+        "name": "Ophtalmologue",
+        "domain": "Ophtalmologie",
+        "description": "L'ophtalmologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "OPHTALMOLOGUE"
+    },
+    {
+        "id": "6",
+        "name": "Dermatologue et vénérologue",
+        "domain": "Dermatologie",
+        "description": "Le dermatologue et vénérologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "DERMATOLOGUE"
+    },
+    {
+        "id": "7",
+        "name": "Ostéopathe",
+        "domain": "Ostéopathie",
+        "description": "L'ostéopathe est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "OSTEOPATHE"
+    },
+    {
+        "id": "8",
+        "name": "Masseur-Kinésithérapeute",
+        "domain": "Kinésithérapie",
+        "description": "Le masseur-kinésithérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MASSEUR"
+    },
+    {
+        "id": "9",
+        "name": "Opticien-lunetier",
+        "domain": "Optique",
+        "description": "L'opticien-lunetier est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "OPTICIEN"
+    },
+    {
+        "id": "10",
+        "name": "Pédicure-podologue",
+        "domain": "Podologie",
+        "description": "Le pédicure-podologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PEDICURE"
+    },
+    {
+        "id": "11",
+        "name": "Sage-femme",
+        "domain": "Sage-femme",
+        "description": "La sage-femme est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SAGE_FEMME"
+    },
+    {
+        "id": "12",
+        "name": "ORL",
+        "domain": "ORL",
+        "description": "L'ORL est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORL"
+    },
+    {
+        "id": "13",
+        "name": "Allergologue",
+        "domain": "Allergologie",
+        "description": "L'allergologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ALLERGOLOGUE"
+    },
+    {
+        "id": "14",
+        "name": "Chirurgien urologue",
+        "domain": "Urologie",
+        "description": "Le chirurgien urologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN"
+    },
+    {
+        "id": "15",
+        "name": "Rhumatologue",
+        "domain": "Rhumatologie",
+        "description": "Le rhumatologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "RHUMATOLOGUE"
+    },
+    {
+        "id": "16",
+        "name": "Stomatologue",
+        "domain": "Stomatologie",
+        "description": "Le stomatologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "STOMATOLOGUE"
+    },
+    {
+        "id": "17",
+        "name": "Endocrinologue",
+        "domain": "Endocrinologie",
+        "description": "L'endocrinologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ENDOCRINOLOGUE"
+    },
+    {
+        "id": "18",
+        "name": "Chirurgien orthopédiste",
+        "domain": "Chirurgie orthopédique",
+        "description": "Le chirurgien orthopédiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN"
+    },
+    {
+        "id": "19",
+        "name": "Diététicien",
+        "domain": "Diététique",
+        "description": "Le diététicien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "DIETETICIEN"
+    },
+    {
+        "id": "20",
+        "name": "Psychologue",
+        "domain": "Psychologie",
+        "description": "Le psychologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PSYCHOLOGUE"
+    },
+    {
+        "id": "21",
+        "name": "Psychiatre",
+        "domain": "Psychiatrie",
+        "description": "Le psychiatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PSYCHIATRE"
+    },
+    {
+        "id": "22",
+        "name": "Radiologue",
+        "domain": "Radiologie",
+        "description": "Le radiologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "RADIOLOGUE"
+    },
+    {
+        "id": "23",
+        "name": "Neurologue",
+        "domain": "Neurologie",
+        "description": "Le neurologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "NEUROLOGUE"
+    },
+    {
+        "id": "24",
+        "name": "Cardiologue",
+        "domain": "Cardiologie",
+        "description": "Le cardiologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CARDIOLOGUE"
+    },
+    {
+        "id": "25",
+        "name": "Gastro-entérologue et hépatologue",
+        "domain": "Gastro-entérologie et hépatologie",
+        "description": "Le gastro-entérologue et hépatologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GASTRO_ENTEROLOGUE"
+    },
+    {
+        "id": "26",
+        "name": "Acupuncteur",
+        "domain": "Acupuncture",
+        "description": "L'acupuncteur est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ACUPUNCTEUR"
+    },
+    {
+        "id": "27",
+        "name": "Addictologue",
+        "domain": "Addictologie",
+        "description": "L'addictologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ADDICTOLOGUE"
+    },
+    {
+        "id": "28",
+        "name": "Adjoint chirurgien dentiste",
+        "domain": "Chirurgie dentaire",
+        "description": "L'adjoint chirurgien dentiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ADJOINT_CHIRURGIEN"
+    },
+    {
+        "id": "29",
+        "name": "Adjoint médical",
+        "domain": "Médecine",
+        "description": "L'adjoint médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ADJOINT_MEDICAL"
+    },
+    {
+        "id": "30",
+        "name": "Anatamo-cyto-pathologiste",
+        "domain": "Anatomie et cytologie pathologiques",
+        "description": "L'anatamo-cyto-pathologiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ANATAMO_CYTO_PATHOLOGISTE"
+    },
+    {
+        "id": "31",
+        "name": "Andrologue",
+        "domain": "Andrologie",
+        "description": "L'andrologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ANDROLOGUE"
+    },
+    {
+        "id": "32",
+        "name": "Anesthésiste",
+        "domain": "Anesthésie",
+        "description": "L'anesthésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ANESTHESISTE"
+    }
+]
