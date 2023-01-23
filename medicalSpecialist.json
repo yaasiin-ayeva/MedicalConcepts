@@ -493,7 +493,7 @@
         "id": "71",
         "name": "Hydrologue",
         "domain": "Hydrologie",
-        "description": "L'hydrologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.", 
+        "description": "L'hydrologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "HYDROLOGUE"
     },
     {
@@ -542,7 +542,7 @@
         "id": "78",
         "name": "Manipulateur en électroradiologie médicale",
         "domain": "Manipulateur en électroradiologie médicale",
-        "description": "Le manipulateur en électroradiologie médicale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",    
+        "description": "Le manipulateur en électroradiologie médicale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "MANIPULATEUR_EN_ELECTRORADIOLOGIE_MEDICALE"
     },
     {
@@ -705,5 +705,173 @@
         "domain": "Oculaire",
         "description": "L'oculariste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "OCULARISTE"
+    },
+    {
+        "id": "102",
+        "name": "Oncologue médical",
+        "domain": "Oncologie médicale",
+        "description": "L'oncologue médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ONCOLOGUE_MEDICAL"
+    },
+    {
+        "id": "103",
+        "name": "Onco-hématologue",
+        "domain": "Onco-hématologie",
+        "description": "L'onco-hématologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ONCO-HEMATOLOGUE"
+    },
+    {
+        "id": "104",
+        "name": "Onco-radiothérapeute",
+        "domain": "Onco-radiothérapie",
+        "description": "L'onco-radiothérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ONCO-RADIOTHERAPEUTE"
+    },
+    {
+        "id": "105",
+        "name": "ORL-Chirurgien de la face et du cou",
+        "domain": "ORL-Chirurgie de la face et du cou",
+        "description": "L'ORL-Chirurgien de la face et du cou est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORL-CHIRURGIEN_DE_LA_FACE_ET_DU_COU"
+    },
+    {
+        "id": "106",
+        "name": "Orthodontiste",
+        "domain": "Orthodontie",
+        "description": "L'orthodontiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORTHODONTISTE"
+    },
+    {
+        "id": "107",
+        "name": "Orthopédiste-orthésiste",
+        "domain": "Orthopédie-orthèse",
+        "description": "L'orthopédiste-orthésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORTHOPEDISTE-ORTHESE"
+    },
+    {
+        "id": "108",
+        "name": "Orthophoniste",
+        "domain": "Orthophonie",
+        "description": "L'orthophoniste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORTHOPHONISTE"
+    },
+    {
+        "id": "109",
+        "name": "Orthoprothésiste",
+        "domain": "Orthopédie",
+        "description": "L'orthoprothésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORTHOPROTHESE"
+    },
+    {
+        "id": "110",
+        "name": "Orthoptiste",
+        "domain": "Orthoptie",
+        "description": "L'orthoptiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ORTHOPTISTE"
+    },
+    {
+        "id": "111",
+        "name": "Ostéopathie maxillo-faciale et oro-faciale",
+        "domain": "Ostéopathie maxillo-faciale et oro-faciale",
+        "description": "L'ostéopathie maxillo-faciale et oro-faciale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "OSTEOPATHIE_MAXILLO-FACIALE_ET_ORO-FACIALE"
+    },
+    {
+        "id": "112",
+        "name": "Pathologies professionnelles et environnementales",
+        "domain": "Pathologies professionnelles et environnementales",
+        "description": "La pathologie professionnelle et environnementale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PATHOLOGIES_PROFESSIONNELLES_ET_ENVIRONNEMENTALES"
+    },
+    {
+        "id": "113",
+        "name": "Pharmacien",
+        "domain": "Pharmacie",
+        "description": "Le pharmacien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PHARMACIEN"
+    },
+    {
+        "id": "114",
+        "name": "Pharmacologue",
+        "domain": "Pharmacologie",
+        "description": "Le pharmacologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PHARMACOLOGUE"
+    },
+    {
+        "id": "115",
+        "name": "Phlébologue",
+        "domain": "Phlébologie",
+        "description": "Le phlébologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PHLEBOLOGUE"
+    },
+    {
+        "id": "116",
+        "name": "Pneumologue",
+        "domain": "Pneumologie",
+        "description": "Le pneumologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PNEUMOLOGUE"
+    },
+    {
+        "id": "117",
+        "name": "Phoniatre",
+        "domain": "Phoniatrie",
+        "description": "Le phoniatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PHONIATRE"
+    },
+    {
+        "id": "118",
+        "name": "Podologue pédiatrique",
+        "domain": "Podologie pédiatrique",
+        "description": "Le podologue pédiatrique est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PODOLOGUE_PEDIATRIQUE"
+    },
+    {
+        "id": "119",
+        "name": "Podo-orthésiste",
+        "domain": "Podo-orthèse",
+        "description": "Le podo-orthésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PODO-ORHESISTE"
+    },
+    {
+        "id": "120",
+        "name": "Psychiatre de l'enfant et de l'adolescent",
+        "domain": "Psychiatrie de l'enfant et de l'adolescent",
+        "description": "Le psychiatre de l'enfant et de l'adolescent est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PSYCHIATRE_DE_L'ENFANT_ET_DE_L'ADOLESCENT"
+    },
+    {
+        "id": "121",
+        "name": "Psychomotricien",
+        "domain": "Psychomotricité",
+        "description": "Le psychomotricien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PSYCHOMOTRICIEN"
+    },
+    {
+        "id": "122",
+        "name": "Psychothérapeute",
+        "domain": "Psychothérapie",
+        "description": "Le psychothérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "PSYCHOTHERAPEUTE"
+    },
+    {
+        "id": "123",
+        "name": "Radiothérapeute",
+        "domain": "Radiothérapie",
+        "description": "Le radiothérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "RADIOTHERAPEUTE"
+    },
+    {
+        "id": "124",
+        "name": "Sage-femme échographiste",
+        "domain": "Sage-femme échographiste",
+        "description": "Le sage-femme échographiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SAGE-FEMME_ECHOGRAPHISTE"
+    },
+    {
+        "id": "125",
+        "name": "Spécialiste en hémobiologie-transfusionnelle",
+        "domain": "Hémobiologie-transfusionnelle",
+        "description": "Le spécialiste en hémobiologie-transfusionnelle est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_HEMOBIOLOGIE-TRANSFUSIONNELLE"
     }
 ]
