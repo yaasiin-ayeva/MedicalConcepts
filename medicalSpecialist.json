@@ -915,5 +915,54 @@
         "domain": "Médecine préventive",
         "description": "Le spécialiste en médecine préventive est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "SPECIALISTE_EN_MEDECINE_PREVENTIVE"
+    },
+    {
+        "id": "132",
+        "name": "Spécialiste en réanimation",
+        "domain": "Réanimation",
+        "description": "Le spécialiste en réanimation est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_READAPTATION"
+    },
+    {
+        "id": "133",
+        "name": "Technicien de biologie médicale",
+        "domain": "Biologie médicale",
+        "description": "Le technicien de biologie médicale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "TECHNICIEN_DE_BIOLOGIE_MEDICALE"
+    },
+    {
+        "id": "134",
+        "name": "Technicien de laboratoire médical",
+        "domain": "Laboratoire médical",
+        "description": "Le technicien de laboratoire médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "TECHNICIEN_DE_LABORATOIRE_MEDICAL"
+    },
+    {
+        "id": "135",
+        "name": "Thermaliste",
+        "domain": "Thermalisme",
+        "description": "Le thermaliste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "THERMALISTE"
+    },
+    {
+        "id": "136",
+        "name": "Toxicologue",
+        "domain": "Toxicologie",
+        "description": "Le toxicologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "TOXICOLOGUE"
+    },
+    {
+        "id": "137",
+        "name": "Troubles de l'Oralité Alimentaire (TOA)",
+        "domain": "Troubles de l'Oralité Alimentaire (TOA)",
+        "description": "Le spécialiste en troubles de l'oralité alimentaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "TROUBLES_DE_L_ORALITE_ALIMENTAIRE_TOA"
+    },
+    {
+        "id": "138",
+        "name": "Végétalisme",
+        "domain": "Végétalisme",
+        "description": "Le végétalisme est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "VEGETALISME"
     }
 ]
