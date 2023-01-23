@@ -873,5 +873,19 @@
         "domain": "Hémobiologie-transfusionnelle",
         "description": "Le spécialiste en hémobiologie-transfusionnelle est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "SPECIALISTE_EN_HEMOBIOLOGIE-TRANSFUSIONNELLE"
+    },
+    {
+        "id": "126",
+        "name": "Spécialiste en médecine aérospatiale",
+        "domain": "Médecine aérospatiale",
+        "description": "Le spécialiste en médecine aérospatiale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_MEDECINE_AEROSPATIALE"
+    },
+    {
+        "id": "127",
+        "name": "Spécialiste en médecine de catastrophe",
+        "domain": "Médecine de catastrophe",
+        "description": "Le spécialiste en médecine de catastrophe est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "SPECIALISTE_EN_MEDECINE_DE_CATASTROPHE"
     }
 ]
