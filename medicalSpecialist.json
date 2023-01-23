@@ -558,6 +558,152 @@
         "domain": "Médecine bucco-dentaire",
         "description": "Le médecin bucco-dentaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "MEDECIN_BUCCO_DENTAIRE"
+    },
+    {
+        "id": "81",
+        "name": "Médecin la douleur",
+        "domain": "Médecine de la douleur",
+        "description": "Le médecin la douleur est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_LA_DOULEUR"
+    },
+    {
+        "id": "82",
+        "name": "Médecin de la reproduction",
+        "domain": "Médecine de la reproduction",
+        "description": "Le médecin de la reproduction est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_DE_LA_REPRODUCTION"
+    },
+    {
+        "id": "83",
+        "name": "Médecin de la reproduction et de la gynécologie médicale",
+        "domain": "Médecine de la reproduction et de la gynécologie médicale",
+        "description": "Le médecin de la reproduction et de la gynécologie médicale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_DE_LA_REPRODUCTION_ET_DE_LA_GYNECOLOGIE_MEDICALE"
+    },
+    {
+        "id": "84",
+        "name": "Médecin de soins palliatifs",
+        "domain": "Médecine de soins palliatifs",
+        "description": "Le médecin de soins palliatifs est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_DE_SOINS_PALLIATIFS"
+    },
+    {
+        "id": "85",
+        "name": "Médecin du travail",
+        "domain": "Médecine du travail",
+        "description": "Le médecin du travail est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_DU_TRAVAIL"
+    },
+    {
+        "id": "86",
+        "name": "Médecin du sport",
+        "domain": "Médecine du sport",
+        "description": "Le médecin du sport est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_DU_SPORT"
+    },
+    {
+        "id": "87",
+        "name": "Médecin morphologiste et anti-âge",
+        "domain": "Médecine morphologiste et anti-âge",
+        "description": "Le médecin morphologiste et anti-âge est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_MORPHOLOGISTE_ET_ANTI_AGE"
+    },
+    {
+        "id": "88",
+        "name": "Médecin nucléaire",
+        "domain": "Médecine nucléaire",
+        "description": "Le médecin nucléaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_NUCLEAIRE"
+    },
+    {
+        "id": "89",
+        "name": "Médecin nutritionniste",
+        "domain": "Médecine nutritionniste",
+        "description": "Le médecin nutritionniste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_NUTRITIONNISTE"
+    },
+    {
+        "id": "90",
+        "name": "Médecin pénitentiaire",
+        "domain": "Médecine pénitentiaire",
+        "description": "Le médecin pénitentiaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_PENITENTIAIRE"
+    },
+    {
+        "id": "91",
+        "name": "Médecin réanimateur",
+        "domain": "Médecine réanimateur",
+        "description": "Le médecin réanimateur est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_REANIMATEUR"
+    },
+    {
+        "id": "92",
+        "name": "Médecin spécialiste de santé publique",
+        "domain": "Médecine spécialiste de santé publique",
+        "description": "Le médecin spécialiste de santé publique est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_SPECIALISTE_DE_SANTE_PUBLIQUE"
+    },
+    {
+        "id": "93",
+        "name": "Médecin urgentiste",
+        "domain": "Médecine urgentiste",
+        "description": "Le médecin urgentiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_URGENTISTE"
+    },
+    {
+        "id": "94",
+        "name": "Médecin vasculaire",
+        "domain": "Médecine vasculaire",
+        "description": "Le médecin vasculaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_VASCULAIRE"
+    },
+    {
+        "id": "95",
+        "name": "Médecin vétérinaire",
+        "domain": "Médecine vétérinaire",
+        "description": "Le médecin vétérinaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_VETERINAIRE"
+    },
+    {
+        "id": "96",
+        "name": "Néonatologue",
+        "domain": "Néonatologie",
+        "description": "Le néonatologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "NEONATOLOGUE"
+    },
+    {
+        "id": "97",
+        "name": "Néphrologue",
+        "domain": "Néphrologie",
+        "description": "Le néphrologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "NEPHROLOGUE"
+    },
+    {
+        "id": "98",
+        "name": "Neurochirurgien",
+        "domain": "Neurochirurgie",
+        "description": "Le neurochirurgien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "NEUROCHIRURGIEN"
+    },
+    {
+        "id": "99",
+        "name": "Neuro-pathologiste",
+        "domain": "Neuro-pathologie",
+        "description": "Le neuro-pathologiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "NEURO-PATHOLOGISTE"
+    },
+    {
+        "id": "100",
+        "name": "Neuro-psychiatre",
+        "domain": "Neuro-psychiatrie",
+        "description": "Le neuro-psychiatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "NEURO-PSYCHIATRE"
+    },
+    {
+        "id": "101",
+        "name": "Oculariste",
+        "domain": "Oculaire",
+        "description": "L'oculariste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "OCULARISTE"
     }
-    
 ]
