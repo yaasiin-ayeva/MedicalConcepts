@@ -446,5 +446,118 @@
         "domain": "Gériatrie",
         "description": "Le gériatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "GERIATRE"
+    },
+    {
+        "id": "65",
+        "name": "Gynécologue médical",
+        "domain": "Gynécologie médicale",
+        "description": "Le gynécologue médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GYNECOLOGUE_MEDICAL"
+    },
+    {
+        "id": "66",
+        "name": "Gynécologue obstétricien",
+        "domain": "Gynécologie obstétrique",
+        "description": "Le gynécologue obstétricien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "GYNECOLOGUE_OBSTETRICIEN"
+    },
+    {
+        "id": "67",
+        "name": "Hématologue",
+        "domain": "Hématologie",
+        "description": "L'hématologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "HEMATOLOGUE"
+    },
+    {
+        "id": "68",
+        "name": "Hématologue biologiste",
+        "domain": "Hématologie biologique",
+        "description": "L'hématologue biologiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "HEMATOLOGUE_BIOLOGISTE"
+    },
+    {
+        "id": "69",
+        "name": "Hématologue clinicien",
+        "domain": "Hématologie clinique",
+        "description": "L'hématologue clinicien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "HEMATOLOGUE_CLINICIEN"
+    },
+    {
+        "id": "70",
+        "name": "Homéopathe",
+        "domain": "Homéopathie",
+        "description": "L'homéopathe est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "HOMEOPATHIE"
+    },
+    {
+        "id": "71",
+        "name": "Hydrologue",
+        "domain": "Hydrologie",
+        "description": "L'hydrologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.", 
+        "code": "HYDROLOGUE"
+    },
+    {
+        "id": "72",
+        "name": "Immunologue",
+        "domain": "Immunologie",
+        "description": "L'immunologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "IMMUNOLOGUE"
+    },
+    {
+        "id": "73",
+        "name": "Infectiologue",
+        "domain": "Infectiologie",
+        "description": "L'infectiologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "INFECTIOLOGUE"
+    },
+    {
+        "id": "74",
+        "name": "Infirmier",
+        "domain": "Infirmier",
+        "description": "L'infirmier est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "INFIRMIER"
+    },
+    {
+        "id": "75",
+        "name": "Infirmier anesthésiste",
+        "domain": "Infirmier anesthésiste",
+        "description": "L'infirmier anesthésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "INFIRMIER_ANESTHESISTE"
+    },
+    {
+        "id": "76",
+        "name": "Infirmier en pratique avancée",
+        "domain": "Infirmier en pratique avancée",
+        "description": "L'infirmier en pratique avancée est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "INFIRMIER_EN_PRACTIQUE_AVANCEE"
+    },
+    {
+        "id": "77",
+        "name": "Infirmière puéricultrice",
+        "domain": "Infirmière puéricultrice",
+        "description": "L'infirmière puéricultrice est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "INFIRMIERE_PUERICULTRICE"
+    },
+    {
+        "id": "78",
+        "name": "Manipulateur en électroradiologie médicale",
+        "domain": "Manipulateur en électroradiologie médicale",
+        "description": "Le manipulateur en électroradiologie médicale est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",    
+        "code": "MANIPULATEUR_EN_ELECTRORADIOLOGIE_MEDICALE"
+    },
+    {
+        "id": "79",
+        "name": "Médecin biologiste",
+        "domain": "Médecine biologique",
+        "description": "Le médecin biologiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_BIOLOGISTE"
+    },
+    {
+        "id": "80",
+        "name": "Médecin bucco-dentaire",
+        "domain": "Médecine bucco-dentaire",
+        "description": "Le médecin bucco-dentaire est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "MEDECIN_BUCCO_DENTAIRE"
     }
+    
 ]
