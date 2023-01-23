@@ -3,91 +3,78 @@
         "id": "1",
         "name": "Chirurgien",
         "domain": "Chirurgie",
-        "description": "Le chirurgien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "CHIRURGIEN"
     },
     {
         "id": "2",
         "name": "Dentiste",
         "domain": "Dentisterie",
-        "description": "Le dentiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "DENTISTE"
     },
     {
         "id": "3",
         "name": "Médecin généraliste",
         "domain": "Médecine générale",
-        "description": "Le médecin généraliste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "GENERALISTE"
     },
     {
         "id": "4",
         "name": "Pédiatre",
         "domain": "Pédiatrie",
-        "description": "Le pédiatre est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "PEDIATRE"
     },
     {
         "id": "5",
         "name": "Gynécologue médical",
         "domain": "Gynécologie médicale",
-        "description": "Le gynécologue médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "GYNECOLOGUE"
     },
     {
         "id": "6",
         "name": "Gynécologue obstétricien",
         "domain": "Gynécologie obstétrique",
-        "description": "Le gynécologue obstétricien est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "GYNECOLOGUE_OBSTETRICIEN"
     },
     {
         "id": "7",
         "name": "Ophtalmologue",
         "domain": "Ophtalmologie",
-        "description": "L'ophtalmologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "OPHTALMOLOGUE"
     },
     {
         "id": "8",
         "name": "Dermatologue",
         "domain": "Dermatologie",
-        "description": "Le dermatologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "DERMATOLOGUE"
     },
     {
         "id": "9",
         "name": "Vénérologue",
         "domain": "Vénéréologie",
-        "description": "Le vénérologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "VENEROLOGUE"
     },
     {
         "id": "10",
         "name": "Ostéopathe",
         "domain": "Ostéopathie",
-        "description": "L'ostéopathe est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "OSTEOPATHE"
     },
     {
         "id": "11",
         "name": "Masseur-kinésithérapeute",
         "domain": "Kinésithérapie",
-        "description": "Le masseur-kinésithérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "MASSEUR_KINE"
     },
     {
         "id": "12",
         "name": "Opticien-lunetier",
         "domain": "Optique",
-        "description": "L'opticien-lunetier est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "OPTICIEN"
     },
     {
         "id": "13",
         "name": "Pédicure-podologue",
         "domain": "Podologie",
-        "description": "Le pédicure-podologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "PEDICURE"
     }
 ]
