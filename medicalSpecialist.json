@@ -222,5 +222,89 @@
         "domain": "Anesthésie",
         "description": "L'anesthésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
         "code": "ANESTHESISTE"
+    },
+    {
+        "id": "33",
+        "name": "Angiologue",
+        "domain": "Angiologie",
+        "description": "L'angiologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ANGIOLOGUE"
+    },
+    {
+        "id": "34",
+        "name": "Assistant de service social",
+        "domain": "Service social",
+        "description": "L'assistant de service social est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "ASSISTANT_SERVICE_SOCIAL"
+    },
+    {
+        "id": "35",
+        "name": "Audioprothésiste",
+        "domain": "Audioprothèse",
+        "description": "L'audioprothésiste est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "AUDIOPROTHESITE"
+    },
+    {
+        "id": "36",
+        "name": "Biologiste des agents infectieux",
+        "domain": "Biologie des agents infectieux",
+        "description": "Le biologiste des agents infectieux est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "BIOLOGISTE_AGENT_INFE"
+    },
+    {
+        "id": "37",
+        "name": "Auxiliaire de puériculture",
+        "domain": "Puériculture",
+        "description": "L'auxiliaire de puériculture est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "AUXILIAIRE_PUERICULTURE"
+    },
+    {
+        "id": "38",
+        "name": "Cancerologue",
+        "domain": "Cancérologie",
+        "description": "Le cancerologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CANCEROLOGUE"
+    },
+    {
+        "id": "39",
+        "name": "Cancerologue biologique",
+        "domain": "Cancérologie biologique",
+        "description": "Le cancerologue biologique est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CANCEROLOGUE_BIOLOGIQUE"
+    },
+    {
+        "id": "40",
+        "name": "Cancerologue médical",
+        "domain": "Cancérologie médicale",
+        "description": "Le cancerologue médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CANCEROLOGUE_MEDICAL"
+    },
+    {
+        "id": "41",
+        "name": "Cancerologue radiothérapeute",
+        "domain": "Cancérologie radiothérapeutique",
+        "description": "Le cancerologue radiothérapeute est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CANCEROLOGUE_RADIO"
+    },
+    {
+        "id": "42",
+        "name": "Chercheur médical",
+        "domain": "Recherche médicale",
+        "description": "Le chercheur médical est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHERCHEUR_MEDICAL"
+    },
+    {
+        "id": "43",
+        "name": "Chiropracteur",
+        "domain": "Chiropractie",
+        "description": "Le chiropracteur est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIROPRACTEUR"
+    },
+    {
+        "id": "44",
+        "name": "Chirurgien cancérologue",
+        "domain": "Chirurgie cancérologique",
+        "description": "Le chirurgien cancérologue est un médecin spécialisé dans la prévention, le diagnostic et le traitement des maladies et des dysfonctionnements de la bouche et des dents. Il est également appelé dentiste.",
+        "code": "CHIRURGIEN_CANCEROLOGUE"
     }
 ]
