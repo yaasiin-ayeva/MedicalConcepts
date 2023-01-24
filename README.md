@@ -1,8 +1,10 @@
-# Medical Specialists
-Exhaustive list of medical specialties for a project related to the medical field
+# Medical Concepts
+Exhaustive list of medical concepts for a project related to the medical field
 
 You can use this project's files to populate a database in case you need to
-create a list of medical specialties for a project related to the medical field.
+create a list of medical terms & concepts for a project related to the medical field such as :
+- Specialities (Global & Detailled)
+- Classification of products in pharmacy
 
 ## How to use
 1. Clone this repository
