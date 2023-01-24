@@ -110,7 +110,18 @@
             "Sexualité et intime",
             "Accessoires courants",
             "Incontinence Appareils de mesure & Diagnostic",
-            "Maintien à domicile" 
+            "Maintien à domicile"
+        ]
+    },
+    {
+        "id": "9",
+        "key": "Vétérinaire",
+        "values": [
+            "Antiparasitaires",
+            "Toilettage",
+            "Santé & Bien être",
+            "Alimentation",
+            "Accessoires vétérinaires"
         ]
     }
 ]
