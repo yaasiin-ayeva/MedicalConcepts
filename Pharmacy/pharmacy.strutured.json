@@ -98,5 +98,19 @@
             "Cannes",
             "Poignet - Pouce - Doigt"
         ]
+    },
+    {
+        "id": "8",
+        "key": "Accessoires-Matériel Médical",
+        "values": [
+            "Masque de protection",
+            "Protection périodique",
+            "Aiguilles Seringues",
+            "Premiers secours",
+            "Sexualité et intime",
+            "Accessoires courants",
+            "Incontinence Appareils de mesure & Diagnostic",
+            "Maintien à domicile" 
+        ]
     }
 ]
