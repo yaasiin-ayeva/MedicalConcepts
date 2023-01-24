@@ -415,217 +415,303 @@
     {
         "id": "60",
         "name_fr": "Endocrinologue diabétologue",
+        "name_en": "Endocrinologist and diabetologist",
         "domain_fr": "Endocrinologie diabétologie",
+        "domain_en": "Endocrinology and diabetology"
     },
     {
         "id": "61",
         "name_fr": "Epithésiste",
+        "name_en": "Epithesist",
         "domain_fr": "Epithésie",
+        "domain_en": "Epithesis"
     },
     {
         "id": "62",
         "name_fr": "Ergothérapeute",
+        "name_en": "Ergotherapist",
         "domain_fr": "Ergothérapie",
+        "domain_en": "Ergotherapy"
     },
     {
         "id": "63",
         "name_fr": "Généticien",
+        "name_en": "Geneticist",
         "domain_fr": "Génétique",
+        "domain_en": "Genetics"
     },
     {
         "id": "64",
         "name_fr": "Gériatre",
+        "name_en": "Geriatrician",
         "domain_fr": "Gériatrie",
+        "domain_en": "Geriatrics"
     },
     {
         "id": "65",
         "name_fr": "Gynécologue médical",
+        "name_en": "Gynecologist",
         "domain_fr": "Gynécologie médicale",
+        "domain_en": "Gynecology"
     },
     {
         "id": "66",
         "name_fr": "Gynécologue obstétricien",
+        "name_en": "Obstetrician-gynecologist",
         "domain_fr": "Gynécologie obstétrique",
+        "domain_en": "Obstetrics and gynecology"
     },
     {
         "id": "67",
         "name_fr": "Hématologue",
+        "name_en": "Hematologist",
         "domain_fr": "Hématologie",
+        "domain_en": "Hematology"
     },
     {
         "id": "68",
         "name_fr": "Hématologue biologiste",
+        "name_en": "Biological hematologist",
         "domain_fr": "Hématologie biologique",
+        "domain_en": "Biological hematology"
     },
     {
         "id": "69",
         "name_fr": "Hématologue clinicien",
+        "name_en": "Clinical hematologist",
         "domain_fr": "Hématologie clinique",
+        "domain_en": "Clinical hematology"
     },
     {
         "id": "70",
         "name_fr": "Homéopathe",
+        "name_en": "Homeopath",
         "domain_fr": "Homéopathie",
+        "domain_en": "Homeopathy"
     },
     {
         "id": "71",
         "name_fr": "Hydrologue",
+        "name_en": "Hydrologist",
         "domain_fr": "Hydrologie",
+        "domain_en": "Hydrology"
     },
     {
         "id": "72",
         "name_fr": "Immunologue",
+        "name_en": "Immunologist",
         "domain_fr": "Immunologie",
+        "domain_en": "Immunology"
     },
     {
         "id": "73",
         "name_fr": "Infectiologue",
+        "name_en": "Infectiologist",
         "domain_fr": "Infectiologie",
+        "domain_en": "Infectiology"
     },
     {
         "id": "74",
         "name_fr": "Infirmier",
+        "name_en": "Nurse",
         "domain_fr": "Infirmier",
+        "domain_en": "Nurse"
     },
     {
         "id": "75",
         "name_fr": "Infirmier anesthésiste",
+        "name_en": "Anesthesiologist",
         "domain_fr": "Infirmier anesthésiste",
+        "domain_en": "Anesthesiologist"
     },
     {
         "id": "76",
         "name_fr": "Infirmier en pratique avancée",
+        "name_en": "Advanced practice nurse",
         "domain_fr": "Infirmier en pratique avancée",
+        "domain_en": "Advanced practice nurse"
     },
     {
         "id": "77",
         "name_fr": "Infirmière puéricultrice",
+        "name_en": "Nurse-midwife",
         "domain_fr": "Infirmière puéricultrice",
+        "domain_en": "Nurse-midwife"
     },
     {
         "id": "78",
         "name_fr": "Manipulateur en électroradiologie médicale",
+        "name_en": "Medical electroradiology manipulator",
         "domain_fr": "Manipulateur en électroradiologie médicale",
+        "domain_en": "Medical electroradiology manipulator"
     },
     {
         "id": "79",
         "name_fr": "Médecin biologiste",
+        "name_en": "Biological doctor",
         "domain_fr": "Médecine biologique",
+        "domain_en": "Biological medicine"
     },
     {
         "id": "80",
         "name_fr": "Médecin bucco-dentaire",
+        "name_en": "Oral doctor",
         "domain_fr": "Médecine bucco-dentaire",
+        "domain_en": "Oral medicine"
     },
     {
         "id": "81",
         "name_fr": "Médecin la douleur",
+        "name_en": "Pain doctor",
         "domain_fr": "Médecine de la douleur",
+        "domain_en": "Pain medicine"
     },
     {
         "id": "82",
         "name_fr": "Médecin de la reproduction",
+        "name_en": "Reproductive doctor",
         "domain_fr": "Médecine de la reproduction",
+        "domain_en": "Reproductive medicine"
     },
     {
         "id": "83",
         "name_fr": "Médecin de la reproduction et de la gynécologie médicale",
+        "name_en": "Reproductive and medical gynecology doctor",
         "domain_fr": "Médecine de la reproduction et de la gynécologie médicale",
+        "domain_en": "Reproductive and medical gynecology medicine"
     },
     {
         "id": "84",
         "name_fr": "Médecin de soins palliatifs",
+        "name_en": "Palliative care doctor",
         "domain_fr": "Médecine de soins palliatifs",
+        "domain_en": "Palliative care medicine"
     },
     {
         "id": "85",
         "name_fr": "Médecin du travail",
+        "name_en": "Occupational doctor",
         "domain_fr": "Médecine du travail",
+        "domain_en": "Occupational medicine"
     },
     {
         "id": "86",
         "name_fr": "Médecin du sport",
+        "name_en": "Sports doctor",
         "domain_fr": "Médecine du sport",
+        "domain_en": "Sports medicine"
     },
     {
         "id": "87",
         "name_fr": "Médecin morphologiste et anti-âge",
+        "name_en": "Morphologist and anti-aging doctor",
         "domain_fr": "Médecine morphologiste et anti-âge",
+        "domain_en": "Morphologist and anti-aging medicine"
     },
     {
         "id": "88",
         "name_fr": "Médecin nucléaire",
+        "name_en": "Nuclear doctor",
         "domain_fr": "Médecine nucléaire",
+        "domain_en": "Nuclear medicine"
     },
     {
         "id": "89",
         "name_fr": "Médecin nutritionniste",
+        "name_en": "Nutritionist doctor",
         "domain_fr": "Médecine nutritionniste",
+        "domain_en": "Nutritionist medicine"
     },
     {
         "id": "90",
         "name_fr": "Médecin pénitentiaire",
+        "name_en": "Prison doctor",
         "domain_fr": "Médecine pénitentiaire",
+        "domain_en": "Prison medicine"
     },
     {
         "id": "91",
         "name_fr": "Médecin réanimateur",
+        "name_en": "Intensive care doctor",
         "domain_fr": "Médecine réanimateur",
+        "domain_en": "Intensive care medicine"
     },
     {
         "id": "92",
         "name_fr": "Médecin spécialiste de santé publique",
+        "name_en": "Public health specialist doctor",
         "domain_fr": "Médecine spécialiste de santé publique",
+        "domain_en": "Public health specialist medicine"
     },
     {
         "id": "93",
         "name_fr": "Médecin urgentiste",
+        "name_en": "Emergency doctor",
         "domain_fr": "Médecine urgentiste",
+        "domain_en": "Emergency medicine"
     },
     {
         "id": "94",
         "name_fr": "Médecin vasculaire",
+        "name_en": "Vascular doctor",
         "domain_fr": "Médecine vasculaire",
+        "domain_en": "Vascular medicine"
     },
     {
         "id": "95",
         "name_fr": "Médecin vétérinaire",
+        "name_en": "Veterinary doctor",
         "domain_fr": "Médecine vétérinaire",
+        "domain_en": "Veterinary medicine"
     },
     {
         "id": "96",
         "name_fr": "Néonatologue",
+        "name_en": "Neonatologist",
         "domain_fr": "Néonatologie",
+        "domain_en": "Neonatology"
     },
     {
         "id": "97",
         "name_fr": "Néphrologue",
+        "name_en": "Nephrologist",
         "domain_fr": "Néphrologie",
+        "domain_en": "Nephrology"
     },
     {
         "id": "98",
         "name_fr": "Neurochirurgien",
+        "name_en": "Neurosurgeon",
         "domain_fr": "Neurochirurgie",
+        "domain_en": "Neurosurgery"
     },
     {
         "id": "99",
         "name_fr": "Neuro-pathologiste",
+        "name_en": "Neuro-pathologist",
         "domain_fr": "Neuro-pathologie",
+        "domain_en": "Neuro-pathology"
     },
     {
         "id": "100",
         "name_fr": "Neuro-psychiatre",
+        "name_en": "Neuro-psychiatrist",
         "domain_fr": "Neuro-psychiatrie",
+        "domain_en": "Neuro-psychiatry"
     },
     {
         "id": "101",
         "name_fr": "Oculariste",
+        "name_en": "Ocularist",
         "domain_fr": "Oculaire",
+        "domain_en": "Ocular"
     },
     {
         "id": "102",
         "name_fr": "Oncologue médical",
+        "name_en": "Medical oncologist",
         "domain_fr": "Oncologie médicale",
+        "domain_en": "Medical oncology"
     },
     {
         "id": "103",
