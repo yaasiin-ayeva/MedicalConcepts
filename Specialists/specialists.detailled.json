@@ -716,181 +716,252 @@
     {
         "id": "103",
         "name_fr": "Onco-hématologue",
+        "name_en": "Hematologist-oncologist",
         "domain_fr": "Onco-hématologie",
+        "domain_en": "Hematology-oncology"
     },
     {
         "id": "104",
         "name_fr": "Onco-radiothérapeute",
+        "name_en": "Radiotherapist-oncologist",
         "domain_fr": "Onco-radiothérapie",
+        "domain_en": "Radiotherapy-oncology"
     },
     {
         "id": "105",
         "name_fr": "ORL-Chirurgien de la face et du cou",
+        "name_en": "ORL-Face and neck surgeon",
         "domain_fr": "ORL-Chirurgie de la face et du cou",
+        "domain_en": "ORL-Face and neck surgery"
     },
     {
         "id": "106",
         "name_fr": "Orthodontiste",
+        "name_en": "Orthodontist",
         "domain_fr": "Orthodontie",
+        "domain_en": "Orthodontics"
     },
     {
         "id": "107",
         "name_fr": "Orthopédiste-orthésiste",
+        "name_en": "Orthopedist-orthotist",
         "domain_fr": "Orthopédie-orthèse",
+        "domain_en": "Orthopedics-orthotics"
     },
     {
         "id": "108",
         "name_fr": "Orthophoniste",
+        "name_en": "Speech therapist",
         "domain_fr": "Orthophonie",
     },
     {
         "id": "109",
         "name_fr": "Orthoprothésiste",
+        "name_en": "Orthotist",
         "domain_fr": "Orthopédie",
+        "domain_en": "Orthopedics"
     },
     {
         "id": "110",
         "name_fr": "Orthoptiste",
+        "name_en": "Orthoptist",
         "domain_fr": "Orthoptie",
+        "domain_en": "Orthoptics"
     },
     {
         "id": "111",
         "name_fr": "Ostéopathie maxillo-faciale et oro-faciale",
+        "name_en": "Maxillo-facial and oro-facial osteopathy",
         "domain_fr": "Ostéopathie maxillo-faciale et oro-faciale",
+        "domain_en": "Maxillo-facial and oro-facial osteopathy"
     },
     {
         "id": "112",
         "name_fr": "Pathologies professionnelles et environnementales",
+        "name_en": "Occupational and environmental diseases",
         "domain_fr": "Pathologies professionnelles et environnementales",
+        "domain_en": "Occupational and environmental diseases"
     },
     {
         "id": "113",
         "name_fr": "Pharmacien",
+        "name_en": "Pharmacist",
         "domain_fr": "Pharmacie",
+        "domain_en": "Pharmacy"
     },
     {
         "id": "114",
         "name_fr": "Pharmacologue",
+        "name_en": "Pharmacologist",
         "domain_fr": "Pharmacologie",
+        "domain_en": "Pharmacology"
     },
     {
         "id": "115",
         "name_fr": "Phlébologue",
+        "name_en": "Phlebologist",
         "domain_fr": "Phlébologie",
+        "domain_en": "Phlebology"
     },
     {
         "id": "116",
         "name_fr": "Pneumologue",
+        "name_en": "Pulmonologist",
         "domain_fr": "Pneumologie",
+        "domain_en": "Pulmonology"
     },
     {
         "id": "117",
         "name_fr": "Phoniatre",
+        "name_en": "Speech therapist",
         "domain_fr": "Phoniatrie",
+        "domain_en": "Phoniatrics"
     },
     {
         "id": "118",
         "name_fr": "Podologue pédiatrique",
+        "name_en": "Pediatric podiatrist",
         "domain_fr": "Podologie pédiatrique",
+        "domain_en": "Pediatric podiatry"
     },
     {
         "id": "119",
         "name_fr": "Podo-orthésiste",
+        "name_en": "Podiatrist-orthotist",
         "domain_fr": "Podo-orthèse",
+        "domain_en": "Podiatry-orthotics"
     },
     {
         "id": "120",
         "name_fr": "Psychiatre de l'enfant et de l'adolescent",
+        "name_en": "Child and adolescent psychiatrist",
         "domain_fr": "Psychiatrie de l'enfant et de l'adolescent",
+        "domain_en": "Child and adolescent psychiatry"
     },
     {
         "id": "121",
         "name_fr": "Psychomotricien",
+        "name_en": "Psychomotor",
         "domain_fr": "Psychomotricité",
+        "domain_en": "Psychomotor"
     },
     {
         "id": "122",
         "name_fr": "Psychothérapeute",
+        "name_en": "Psychotherapist",
         "domain_fr": "Psychothérapie",
+        "domain_en": "Psychotherapy"
     },
     {
         "id": "123",
         "name_fr": "Radiothérapeute",
+        "name_en": "Radiotherapist",
         "domain_fr": "Radiothérapie",
+        "domain_en": "Radiotherapy"
     },
     {
         "id": "124",
         "name_fr": "Sage-femme échographiste",
+        "name_en": "Sonographer midwife",
         "domain_fr": "Sage-femme échographiste",
+        "domain_en": "Sonographer midwife"
     },
     {
         "id": "125",
         "name_fr": "Spécialiste en hémobiologie-transfusionnelle",
+        "name_en": "Specialist in hematology-transfusion",
         "domain_fr": "Hémobiologie-transfusionnelle",
+        "domain_en": "Hematology-transfusion"
     },
     {
         "id": "126",
         "name_fr": "Spécialiste en médecine aérospatiale",
+        "name_en": "Specialist in aerospace medicine",
         "domain_fr": "Médecine aérospatiale",
+        "domain_en": "Aerospace medicine"
     },
     {
         "id": "127",
         "name_fr": "Spécialiste en médecine de catastrophe",
+        "name_en": "Specialist in disaster medicine",
         "domain_fr": "Médecine de catastrophe",
+        "domain_en": "Disaster medicine"
     },
     {
         "id": "128",
         "name_fr": "Spécialiste en médecine interne",
+        "name_en": "Specialist in internal medicine",
         "domain_fr": "Médecine interne",
+        "domain_en": "Internal medicine"
     },
     {
         "id": "129",
         "name_fr": "Spécialiste en médecine légale et expert médical",
+        "name_en": "Specialist in forensic medicine and medical expert",
         "domain_fr": "Médecine légale et expert médical",
+        "domain_en": "Forensic medicine and medical expert"
     },
     {
         "id": "130",
         "name_fr": "Spécialiste en médecine physique et de réadaptation",
+        "name_en": "Specialist in physical medicine and rehabilitation",
         "domain_fr": "Médecine physique et de réadaptation",
+        "domain_en": "Physical medicine and rehabilitation"
     },
     {
         "id": "131",
         "name_fr": "Spécialiste en médecine préventive",
+        "name_en": "Specialist in preventive medicine",
         "domain_fr": "Médecine préventive",
+        "domain_en": "Preventive medicine"
     },
     {
         "id": "132",
         "name_fr": "Spécialiste en réanimation",
+        "name_en": "Specialist in resuscitation",
         "domain_fr": "Réanimation",
+        "domain_en": "Resuscitation"
     },
     {
         "id": "133",
         "name_fr": "Technicien de biologie médicale",
+        "name_en": "Medical laboratory technician",
         "domain_fr": "Biologie médicale",
+        "domain_en": "Medical biology"
     },
     {
         "id": "134",
         "name_fr": "Technicien de laboratoire médical",
+        "name_en": "Medical laboratory technician",
         "domain_fr": "Laboratoire médical",
+        "domain_en": "Medical laboratory"
     },
     {
         "id": "135",
         "name_fr": "Thermaliste",
+        "name_en": "Thermalist",
         "domain_fr": "Thermalisme",
+        "domain_en": "Thermalism"
     },
     {
         "id": "136",
         "name_fr": "Toxicologue",
+        "name_en": "Toxicologist",
         "domain_fr": "Toxicologie",
+        "domain_en": "Toxicology"
     },
     {
         "id": "137",
         "name_fr": "Troubles de l'Oralité Alimentaire (TOA)",
+        "name_en": "Oral Feeding Disorders (OFD)",
         "domain_fr": "Troubles de l'Oralité Alimentaire (TOA)",
+        "domain_en": "Oral Feeding Disorders (OFD)"
     },
     {
         "id": "138",
         "name_fr": "Végétalisme",
+        "name_en": "Vegetarianism",
         "domain_fr": "Végétalisme",
+        "domain_en": "Vegetarianism"
     }
 ]
