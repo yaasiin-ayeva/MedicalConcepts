@@ -1,0 +1,73 @@
+{
+    "info": {
+        "name": "SPECIALISTS-API",
+        "language": "fr"
+    },
+    "data": [
+        {
+            "id": "1",
+            "name": "Chirurgien",
+            "domain": "Chirurgie"
+        },
+        {
+            "id": "2",
+            "name": "Dentiste",
+            "domain": "Dentisterie"
+        },
+        {
+            "id": "3",
+            "name": "Médecin généraliste",
+            "domain": "Médecine générale"
+        },
+        {
+            "id": "4",
+            "name": "Pédiatre",
+            "domain": "Pédiatrie"
+        },
+        {
+            "id": "5",
+            "name": "Gynécologue médical",
+            "domain": "Gynécologie médicale"
+        },
+        {
+            "id": "6",
+            "name": "Gynécologue obstétricien",
+            "domain": "Gynécologie obstétrique"
+        },
+        {
+            "id": "7",
+            "name": "Ophtalmologue",
+            "domain": "Ophtalmologie"
+        },
+        {
+            "id": "8",
+            "name": "Dermatologue",
+            "domain": "Dermatologie"
+        },
+        {
+            "id": "9",
+            "name": "Vénérologue",
+            "domain": "Vénéréologie"
+        },
+        {
+            "id": "10",
+            "name": "Ostéopathe",
+            "domain": "Ostéopathie"
+        },
+        {
+            "id": "11",
+            "name": "Masseur-kinésithérapeute",
+            "domain": "Kinésithérapie"
+        },
+        {
+            "id": "12",
+            "name": "Opticien-lunetier",
+            "domain": "Optique"
+        },
+        {
+            "id": "13",
+            "name": "Pédicure-podologue",
+            "domain": "Podologie"
+        }
+    ]
+}

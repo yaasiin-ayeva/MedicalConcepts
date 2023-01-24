@@ -1,0 +1,73 @@
+{
+    "info": {
+        "name": "SPECIALISTS-API",
+        "language": "en"
+    },
+    "data": [
+        {
+            "id": "1",
+            "name": "Surgeon",
+            "domain": "Surgery"
+        },
+        {
+            "id": "2",
+            "name": "Dentist",
+            "domain": "Dentistry"
+        },
+        {
+            "id": "3",
+            "name": "General Practitioner",
+            "domain": "General Medicine"
+        },
+        {
+            "id": "4",
+            "name": "Pediatrician",
+            "domain": "Paediatrics"
+        },
+        {
+            "id": "5",
+            "name": "Medical Gynecologist",
+            "domain": "Medical Gynecology"
+        },
+        {
+            "id": "6",
+            "name": "Obstetrician Gynecologist",
+            "domain": "Obstetrics Gynecology"
+        },
+        {
+            "id": "7",
+            "name": "Ophthalmologist",
+            "domain": "Ophthalmology"
+        },
+        {
+            "id": "8",
+            "name": "Dermatologist",
+            "domain": "Dermatology"
+        },
+        {
+            "id": "9",
+            "name": "Venerologist",
+            "domain": "Venereology"
+        },
+        {
+            "id": "10",
+            "name": "Osteopath",
+            "domain": "Osteopathy"
+        },
+        {
+            "id": "11",
+            "name": "Massager-physiotherapist",
+            "domain": "Physiotherapy"
+        },
+        {
+            "id": "12",
+            "name": "Optician-Lunetier",
+            "domain": "Optical"
+        },
+        {
+            "id": "13",
+            "name": "Pedicure-podiatrist",
+            "domain": "Podiatry"
+        }
+    ]
+}
