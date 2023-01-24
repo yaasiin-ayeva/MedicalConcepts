@@ -47,7 +47,54 @@
             "Herboristerie",
             "Super Food",
             "Régimesspéciaux",
-            "Gemmothérapie"
+            "Gemmothérapie",
+            "Confiserie"
+        ]
+    },
+    {
+        "id": "4",
+        "key": "Beauté - Hygiène",
+        "values": [
+            "Hygiène",
+            "Solaires",
+            "Visage",
+            "Homme",
+            "Corps",
+            "Parfumerie",
+            "Cheveux"
+        ]
+    },
+    {
+        "id": "5",
+        "key": "Bébé - Enfant - Maman",
+        "values": [
+            "Bébé",
+            "Enfant",
+            "Future & jeune Maman",
+            "Alimentation de bébé",
+            "Accessoires de puériculture"
+        ]
+    },
+    {
+        "id": "6",
+        "key": "Contention Veineuse",
+        "values": [
+            "Contention Femme",
+            "Contention Homme",
+            "Anti-Thrombose",
+            "Voyage & Bas de maintien",
+            "Accessoires de contention"
+        ]
+    },
+    {
+        "id": "7",
+        "key": "Contention Veineuse",
+        "values": [
+            "Contention Femme",
+            "Contention Homme",
+            "Anti-Thrombose",
+            "Voyage & Bas de maintien",
+            "Accessoires de contention"
         ]
     }
 ]
