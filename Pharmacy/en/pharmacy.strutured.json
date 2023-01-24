@@ -1,0 +1,133 @@
+{
+    "info": {
+        "name": "PHARMACY-API",
+        "language": "en"
+    },
+    "data": [
+        {
+            "id": "1",
+            "key": "Medications",
+            "values": [
+                "Pain-Fever",
+                "Homeopathy",
+                "Fatigue Deficiencies",
+                "Digestion",
+                "Nose Throat Bronchi",
+                "Dermatology",
+                "Smoking cessation",
+                "Blood Circulation",
+                "Ophthalmology",
+                "Moral Sleep Stress",
+                "Oral Disorders",
+                "Urinary Disorders",
+                "Menopausal Disorders",
+                "Local contraception",
+                "Other drugs"
+            ]
+        },
+        {
+            "id": "2",
+            "key": "Health",
+            "values": [
+                "First aid",
+                "Pain - Massage",
+                "Anti Mosquitoes - Insects",
+                "Eyes - Vision",
+                "Barrier gesture",
+                "Sexuality and Intimate",
+                "Bug spray",
+                "Daily Illnesses",
+                "Herpes Mycoses Warts"
+            ]
+        },
+        {
+            "id": "3",
+            "key": "Natural Medicines",
+            "values": [
+                "Phytotherapy - Nutritherapy",
+                "Aromatherapy",
+                "Mycotherapy",
+                "Slimming",
+                "Athlete's diet",
+                "Herbalism",
+                "Superfood",
+                "Special diets",
+                "Gemmotherapy",
+                "Confectionery"
+            ]
+        },
+        {
+            "id": "4",
+            "key": "Beauty - Hygiene",
+            "values": [
+                "Hygiene",
+                "Solar",
+                "Face",
+                "Male",
+                "Body",
+                "Perfumery",
+                "Hair"
+            ]
+        },
+        {
+            "id": "5",
+            "key": "Baby - Child - Mom",
+            "values": [
+                "Babe",
+                "Child",
+                "Future & young Mum",
+                "Baby Feeding",
+                "Childcare accessories"
+            ]
+        },
+        {
+            "id": "6",
+            "key": "Vein Containment",
+            "values": [
+                "Female Contention",
+                "Man Restraint",
+                "Anti-Thrombosis",
+                "Travel & Support Stockings",
+                "Compression accessories"
+            ]
+        },
+        {
+            "id": "7",
+            "key": "Orthopedics - Podiatry",
+            "values": [
+                "Neck - Cervical Collar",
+                "Ankle - Foot",
+                "Elbow - Shoulder",
+                "Knee",
+                "Back - Lumbar Belt",
+                "Canes",
+                "Wrist - Thumb - Finger"
+            ]
+        },
+        {
+            "id": "8",
+            "key": "Accessories-Medical Equipment",
+            "values": [
+                "Protection's mask",
+                "Periodic protection",
+                "Syringe Needles",
+                "FIRST AID",
+                "Sexuality and Intimacy",
+                "Common Accessories",
+                "Incontinence Measuring Devices & Diagnosis",
+                "Home support"
+            ]
+        },
+        {
+            "id": "9",
+            "key": "Veterinarian",
+            "values": [
+                "Pesticides",
+                "Grooming",
+                "Health & Wellness",
+                "Feed",
+                "Veterinary Accessories"
+            ]
+        }
+    ]
+}
