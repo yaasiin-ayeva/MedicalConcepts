@@ -121,212 +121,296 @@
     {
         "id": "18",
         "name_fr": "Chirurgien orthopédiste",
+        "name_en": "Orthopedic surgeon",
         "domain_fr": "Chirurgie orthopédique",
+        "domain_en": "Orthopedic surgery"
     },
     {
         "id": "19",
         "name_fr": "Diététicien",
+        "name_en": "Dietitian",
         "domain_fr": "Diététique",
+        "domain_en": "Dietetics"
     },
     {
         "id": "20",
         "name_fr": "Psychologue",
+        "name_en": "Psychologist",
         "domain_fr": "Psychologie",
+        "domain_en": "Psychology"
     },
     {
         "id": "21",
         "name_fr": "Psychiatre",
+        "name_en": "Psychiatrist",
         "domain_fr": "Psychiatrie",
+        "domain_en": "Psychiatry"
     },
     {
         "id": "22",
         "name_fr": "Radiologue",
+        "name_en": "Radiologist",
         "domain_fr": "Radiologie",
+        "domain_en": "Radiology"
     },
     {
         "id": "23",
         "name_fr": "Neurologue",
+        "name_en": "Neurologist",
         "domain_fr": "Neurologie",
+        "domain_en": "Neurology"
     },
     {
         "id": "24",
         "name_fr": "Cardiologue",
+        "name_en": "Cardiologist",
         "domain_fr": "Cardiologie",
+        "domain_en": "Cardiology"
     },
     {
         "id": "25",
         "name_fr": "Gastro-entérologue et hépatologue",
+        "name_en": "Gastroenterologist and hepatologist",
         "domain_fr": "Gastro-entérologie et hépatologie",
+        "domain_en": "Gastroenterology and hepatology"
     },
     {
         "id": "26",
         "name_fr": "Acupuncteur",
+        "name_en": "Acupuncturist",
         "domain_fr": "Acupuncture",
+        "domain_en": "Acupuncture"
     },
     {
         "id": "27",
         "name_fr": "Addictologue",
+        "name_en": "Addictologist",
         "domain_fr": "Addictologie",
+        "domain_en": "Addictology"
     },
     {
         "id": "28",
         "name_fr": "Adjoint chirurgien dentiste",
+        "name_en": "Dental assistant",
         "domain_fr": "Chirurgie dentaire",
+        "domain_en": "Dental surgery"
     },
     {
         "id": "29",
         "name_fr": "Adjoint médical",
+        "name_en": "Medical assistant",
         "domain_fr": "Médecine",
+        "domain_en": "Medicine"
     },
     {
         "id": "30",
         "name_fr": "Anatamo-cyto-pathologiste",
+        "name_en": "Anatomical and pathological cytologist",
         "domain_fr": "Anatomie et cytologie pathologiques",
+        "domain_en": "Anatomical and pathological cytology"
     },
     {
         "id": "31",
         "name_fr": "Andrologue",
+        "name_en": "Andrologist",
         "domain_fr": "Andrologie",
+        "domain_en": "Andrology"
     },
     {
         "id": "32",
         "name_fr": "Anesthésiste",
+        "name_en": "Anesthesiologist",
         "domain_fr": "Anesthésie",
+        "domain_en": "Anesthesiology"
     },
     {
         "id": "33",
         "name_fr": "Angiologue",
+        "name_en": "Angiologist",
         "domain_fr": "Angiologie",
+        "domain_en": "Angiology"
     },
     {
         "id": "34",
         "name_fr": "Assistant de service social",
+        "name_en": "Social worker assistant",
         "domain_fr": "Service social",
+        "domain_en": "Social work"
     },
     {
         "id": "35",
         "name_fr": "Audioprothésiste",
+        "name_en": "Audiologist",
         "domain_fr": "Audioprothèse",
+        "domain_en": "Audiology"
     },
     {
         "id": "36",
         "name_fr": "Biologiste des agents infectieux",
+        "name_en": "Infectious agent biologist",
         "domain_fr": "Biologie des agents infectieux",
+        "domain_en": "Infectious agent biology"
     },
     {
         "id": "37",
         "name_fr": "Auxiliaire de puériculture",
+        "name_en": "Nursery assistant",
         "domain_fr": "Puériculture",
+        "domain_en": "Nursery"
     },
     {
         "id": "38",
         "name_fr": "Cancerologue",
+        "name_en": "Cancerologist",
         "domain_fr": "Cancérologie",
+        "domain_en": "Cancerology"
     },
     {
         "id": "39",
         "name_fr": "Cancerologue biologique",
+        "name_en": "Biological cancerologist",
         "domain_fr": "Cancérologie biologique",
+        "domain_en": "Biological cancerology"
     },
     {
         "id": "40",
         "name_fr": "Cancerologue médical",
+        "name_en": "Medical cancerologist",
         "domain_fr": "Cancérologie médicale",
+        "domain_en": "Medical cancerology"
     },
     {
         "id": "41",
         "name_fr": "Cancerologue radiothérapeute",
+        "name_en": "Radiotherapeutic cancerologist",
         "domain_fr": "Cancérologie radiothérapeutique",
+        "domain_en": "Radiotherapeutic cancerology"
     },
     {
         "id": "42",
         "name_fr": "Chercheur médical",
+        "name_en": "Medical researcher",
         "domain_fr": "Recherche médicale",
+        "domain_en": "Medical research"
     },
     {
         "id": "43",
         "name_fr": "Chiropracteur",
+        "name_en": "Chiropractor",
         "domain_fr": "Chiropractie",
+        "domain_en": "Chiropractic"
     },
     {
         "id": "44",
         "name_fr": "Chirurgien cancérologue",
+        "name_en": "Cancer surgeon",
         "domain_fr": "Chirurgie cancérologique",
+        "domain_en": "Cancer surgery"
     },
     {
         "id": "45",
         "name_fr": "Chirurgien de la main",
+        "name_en": "Hand surgeon",
         "domain_fr": "Chirurgie de la main",
+        "domain_en": "Hand surgery"
     },
     {
         "id": "46",
         "name_fr": "Chirurgien de la face et du cou",
+        "name_en": "Face and neck surgeon",
         "domain_fr": "Chirurgie de la face et du cou",
+        "domain_en": "Face and neck surgery"
     },
     {
         "id": "47",
         "name_fr": "Chirurgien endocrinien",
+        "name_en": "Endocrine surgeon",
         "domain_fr": "Chirurgie endocrinienne",
+        "domain_en": "Endocrine surgery"
     },
     {
         "id": "48",
         "name_fr": "Chirurgien généaliste",
+        "name_en": "General surgeon",
         "domain_fr": "Chirurgie générale",
+        "domain_en": "General surgery"
     },
     {
         "id": "49",
         "name_fr": "Chirurgien infantile",
+        "name_en": "Pediatric surgeon",
         "domain_fr": "Chirurgie infantile",
+        "domain_en": "Pediatric surgery"
     },
     {
         "id": "50",
         "name_fr": "Chirurgien maxillo-facial",
+        "name_en": "Maxillofacial surgeon",
         "domain_fr": "Chirurgie maxillo-faciale",
+        "domain_en": "Maxillofacial surgery"
     },
     {
         "id": "51",
         "name_fr": "Chirurgien maxillo-facial et stomatologue",
+        "name_en": "Maxillofacial and oral surgeon",
         "domain_fr": "Chirurgie maxillo-faciale et stomatologie",
+        "domain_en": "Maxillofacial and oral surgery"
     },
     {
         "id": "52",
         "name_fr": "Chirurgien oral",
+        "name_en": "Oral surgeon",
         "domain_fr": "Chirurgie orale",
+        "domain_en": "Oral surgery"
     },
     {
         "id": "53",
         "name_fr": "Chirurgien plasticien et esthétique",
+        "name_en": "Plastic and aesthetic surgeon",
         "domain_fr": "Chirurgie plastique et esthétique",
+        "domain_en": "Plastic and aesthetic surgery"
     },
     {
         "id": "54",
         "name_fr": "Chirurgien thoracique",
+        "name_en": "Thoracic surgeon",
         "domain_fr": "Chirurgie thoracique",
+        "domain_en": "Thoracic surgery"
     },
     {
         "id": "55",
         "name_fr": "Chirurgien vasculaire",
+        "name_en": "Vascular surgeon",
         "domain_fr": "Chirurgie vasculaire",
+        "domain_en": "Vascular surgery"
     },
     {
         "id": "56",
         "name_fr": "Chirurgien viscéral et digestif",
+        "name_en": "Visceral and digestive surgeon",
         "domain_fr": "Chirurgie viscérale et digestive",
+        "domain_en": "Visceral and digestive surgery"
     },
     {
         "id": "57",
         "name_fr": "Cytogénéticien",
+        "name_en": "Cytogeneticist",
         "domain_fr": "Cytogénétique",
+        "domain_en": "Cytogenetics"
     },
     {
         "id": "58",
         "name_fr": "Dermopathologue",
+        "name_en": "Dermatopathologist",
         "domain_fr": "Dermatopathologie",
+        "domain_en": "Dermatopathology"
     },
     {
         "id": "59",
         "name_fr": "Echographiste",
+        "name_en": "Sonographer",
         "domain_fr": "Echographie",
+        "domain_en": "Sonography"
     },
     {
         "id": "60",
