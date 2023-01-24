@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "key": "Médicaments",
+        "values": [
+            "Douleur-Fievre",
+            "Homéopathie",
+            "Fatigue Carences",
+            "Digestion",
+            "Nez Gorge Bronche",
+            "Dermatologie",
+            "Sevrage Tabagique",
+            "Circulation Sanguine",
+            "Ophtalmologie",
+            "Stress Sommeil Moral",
+            "Troubles bucco-dentaires",
+            "Troubles urinaires",
+            "Troubles de la ménopause",
+            "Contraception locale",
+            "Autres médicaments"
+        ]
+    },
+    {
+        "id": "2",
+        "key": "Santé",
+        "values": [
+            "Premiers soins",
+            "Douleurs - Massages",
+            "Anti Moustiques - Insectes",
+            "Yeux - Vision",
+            "Geste barrières",
+            "Sexualité et Intimes",
+            "Anti Poux",
+            "Maux du quotidien",
+            "Herpès Mycoses Verrues"
+        ]
+    },
+    {
+        "id": "3",
+        "key": "Médecines Naturelles",
+        "values": [
+            "Phytothérapie - Nutrithérapie",
+            "Aromathérapie",
+            "Mycothérapie",
+            "Minceur",
+            "Diététique du sportif",
+            "Herboristerie",
+            "Super Food",
+            "Régimesspéciaux",
+            "Gemmothérapie"
+        ]
+    }
+]
